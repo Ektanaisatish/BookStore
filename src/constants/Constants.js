@@ -1,0 +1,20 @@
+export const LOGIN_SUCCESS = "Login Successfully";
+export const ADDED_SUCCESSFULLY= "Cart added successfully";
+export const DELETE_CARD= "Cart deleted successfully";
+export const INVALID_CREDENTIALS = "Invalid credentials";
+export const INVALID_EMAIL = "Invalid email";
+export const INVALID_PASSWORD = "Invalid password";
+export const SIGNUP_SUCCESS = "Signup Successfully";
+
+export const PASSWORD_MINLENGTH = "manimum length of password is 4";
+export const PASSWORD_MAXLENGTH = "maximum length of password is 20";
+export const Email_REQUIRED = "email is required";
+export const PASSWORD_REQUIRED = "password is required";
+export const NAME_REQUIRED = "Name is required";
+export const ORDERED_SUCCESSFULLY = "Ordered Successfully";
+export const NAME_VALIDATION = "Username cannot consist only of blank spaces";
+export const PHONE_VALIDATION = "Must be a number";
+export const PHONE_REQUIRED = "Phone number is required";
+export const UPDATE_SUCCESSFULLY = "User profile update successfully";
+export const UPDATED_PASSWORD = "User password update successfully";
+export const USER_NOT = "User not found";
